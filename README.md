@@ -1,8 +1,7 @@
-# Fuzzy Inference System (FIS) in Python (OOP)
+# Fuzzy Inference System (FIS) in Python 
 
 A pure Python implementation of a Mamdani-style Fuzzy Inference System constructed from scratch using Object-Oriented Principles.
 
-**No external dependencies required (no `numpy`, `scipy`, or `skfuzzy`).** It uses pure standard Python logic for all fuzzification, rule evaluation, and defuzzification.
 
 ## Architecture
 
